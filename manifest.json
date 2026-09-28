@@ -1,1 +1,19 @@
-
+{
+  "games": [
+    {
+      "id": "tyroniq",
+      "name": "TYRONIQ",
+      "genre": "Tower Defense",
+      "version": "0.083",
+      "icon": "🏰",
+      "entry": "index.html",
+      "changelog": "Karten-Belohnung alle 5 Wellen, Kapitel 4 (Unterwelt), Drohnen-Karten.",
+      "files": [
+        {
+          "name": "index.html",
+          "url": "https://github.com/tyron-source/tyron-games/releases/download/tyroniq-v0.083/index.html"
+        }
+      ]
+    }
+  ]
+}
